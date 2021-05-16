@@ -22,11 +22,7 @@ import java.util.ArrayList;
 
 public class SessionController {
 
-    SubjectController subjectController;
-    TagController tagController;
-    StudentController studentController;
-    LocationController locationController;
-    LecturerController lecturerController;
+    
     WorkingDayManagementController workingDayManagementController;
 
     public SessionController() {
